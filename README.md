@@ -1,4 +1,4 @@
-Hi 👋 I’m Jatin  
+Hi 👋 I’m Jatin Kumar 
 
 I am an ECE student at NIT Jalandhar with a strong interest in Frontend Development and Web Technologies.
 
