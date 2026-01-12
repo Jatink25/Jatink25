@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋 I’m Jatin  
 
-<!--
-**Jatink25/Jatink25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an ECE student at NIT Jalandhar with a strong interest in Frontend Development and Web Technologies.
 
-Here are some ideas to get you started:
+I have completed a Summer Internship in Cyber Security at CDAC Noida and I actively build web-based projects using HTML, CSS and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills  
+HTML • CSS • JavaScript • Git • GitHub  
+
+📌 Experience  
+Cyber Security Intern (Summer) – CDAC Noida  
+Hackathon Participant – IIT Ropar  
+
+📂 Projects  
+
+• Chatbot Web Application – Interactive chatbot with clean UI  
+• Amazon Clone (Frontend) – E-commerce website UI built using HTML & CSS  
+• Currency Converter – Real-time currency conversion using JavaScript  
+• Rock Paper Scissors Game – Simple game built with JavaScript  
