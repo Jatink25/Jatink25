@@ -5,7 +5,7 @@ I am an ECE student at NIT Jalandhar with a strong interest in Frontend Developm
 I have completed a Summer Internship in Cyber Security at CDAC Noida and I actively build web-based projects using HTML, CSS and JavaScript.
 
 🛠 Skills  
-HTML • CSS • JavaScript • Git • GitHub  
+HTML • CSS • JavaScript • React.js • C++ • python • Java • Git • GitHub  
 
 📌 Experience  
 Cyber Security Intern (Summer) – CDAC Noida  
