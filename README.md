@@ -13,9 +13,12 @@ Hackathon Participant – IIT Ropar
 
 📂 Projects  
 
+• AQI Prediction System – Arduino-based air quality monitoring and AQI prediction system using sensor data, Python, and Machine Learning  
 
-• AQI Prediction System – Arduino-based air quality monitoring and AQI prediction system using sensor data, Python, and Machine Learning
 • Chatbot Web Application – Interactive chatbot with clean UI  
+
 • Amazon Clone (Frontend) – E-commerce website UI built using HTML & CSS  
+
 • Currency Converter – Real-time currency conversion using JavaScript  
+
 • Rock Paper Scissors Game – Simple game built with JavaScript  
